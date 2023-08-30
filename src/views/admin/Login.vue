@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12 col-lg-10 mx-auto">
                 <div class="row">
-                    <div class="col-5 text-secondary mx-auto">
+                    <div class="col-12 col-md-10 col-lg-8 text-secondary mx-auto">
                         <div class="h1 text-center bg-primary p-4 mb-0">會員登入</div>
                         <form class="bg-primary">
                             <div class="input-group px-3">
